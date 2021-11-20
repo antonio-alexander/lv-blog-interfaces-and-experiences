@@ -6,7 +6,7 @@ This documentation seeks to organize information related to the interface that i
 
 original is black and gray, I want something dark, but a wee bit more colorful. Want to go with two primary colors
 
-### initial layout (light blue...cornflow blue)
+### initial layout (light blue...cornflower blue)
 
 Palette URL: [http://paletton.com/#uid=23H0u0kllllaFw0g0qFqFg0w0aF](http://paletton.com/#uid=23H0u0kllllaFw0g0qFqFg0w0aF)
 
